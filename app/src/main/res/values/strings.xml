@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="UpdateOptions">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
